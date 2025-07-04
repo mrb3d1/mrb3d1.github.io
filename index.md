@@ -1,5 +1,5 @@
 ---
-title: "b3d1"
+title: ""
 layout: default
 ---
 
