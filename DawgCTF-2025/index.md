@@ -1,6 +1,5 @@
 ---
 title: "DawgCTF 2025" 
-permalink: /DawgCTF-2025
 layout: darkpage
 ---
 
