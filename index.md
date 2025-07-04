@@ -1,5 +1,5 @@
 ---
-title: "mrb3d1 - blog"
+title: "b3d1"
 layout: default
 ---
 
