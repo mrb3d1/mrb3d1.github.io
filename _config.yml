@@ -1,18 +1,7 @@
-title: "DawgCTF 2025"
-description: "GEOSINT challenges writeups"
+title: DawgCTF 2025
+description: GEOSINT challenges writeups
 baseurl: ""
 url: "https://mrb3d1.github.io"
 
-# Jekyll theme
-theme: minima
-minima:
-  skin: dark
-
-# Markdown processor
 markdown: kramdown
 highlighter: rouge
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
