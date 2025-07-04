@@ -1,0 +1,17 @@
+title: "DawgCTF 2025"
+description: "GEOSINT challenges writeups"
+baseurl: ""
+url: "https://mrb3d1.github.io"
+
+# Jekyll theme
+theme: minima
+# lub remote_theme: "pages-themes/minimal@v0.2.0"
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
