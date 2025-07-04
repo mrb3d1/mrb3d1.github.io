@@ -1,6 +1,6 @@
 ---
 title: "DawgCTF 2025" 
-layout: darkpage
+layout: default
 ---
 
 # DawgCTF 2025 - GEOSINT challenges
