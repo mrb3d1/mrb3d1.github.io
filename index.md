@@ -1,6 +1,6 @@
 ---
 title: "mrb3d1 - blog"
-layout: darkpage
+layout: default
 ---
 
 ### Najnowsze writeup'y:
