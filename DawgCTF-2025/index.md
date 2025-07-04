@@ -2,7 +2,6 @@
 title: "DawgCTF 2025" 
 layout: default
 ---
-
 # DawgCTF 2025 - GEOSINT challenges
 ![Logo](cyberdawgs_shield.png)
 ### Table of contents:
@@ -82,4 +81,3 @@ I cropped a part of the photo showing a ticket office. I found an [article](http
 
 ![chall12](chall12_0.png)
 ![chall12](chall12.png)
-
