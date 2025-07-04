@@ -1,7 +1,7 @@
 ---
 title: "DawgCTF 2025" 
-permalink: / 
-layout: default
+permalink: /DawgCTF-2025
+layout: darkpage
 ---
 
 # DawgCTF 2025 - GEOSINT challenges
