@@ -1,4 +1,5 @@
-# Summer semester 2024/2025
+# Informatics, full-time master degree studies 4 sem.
+## Summer semester 2024/2025
  - **[Advanced algorithms and data structures](/Advanced-algorithms-and-data-structures/)** 
  - **[Advanced programming libraries](/Advanced-programming-libraries/)**
  - **[Applied Mathematics](/Applied-Mathematics/)**
