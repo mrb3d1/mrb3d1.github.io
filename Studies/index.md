@@ -7,7 +7,7 @@
   <div style="border-left: 1px solid #aaa; height: 1.2em;"></div>
 
   <div style="padding: 0 10px;">
-    <a href="/About/" style="text-decoration: none; font-weight: bold;">About</a>
+    <a href="/" style="text-decoration: none; font-weight: bold;">About</a>
   </div>
 
   <div style="border-left: 1px solid #aaa; height: 1.2em;"></div>
