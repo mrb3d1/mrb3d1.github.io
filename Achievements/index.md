@@ -27,8 +27,8 @@
 <h3 style="text-align: center;">I captured a unique CTF Coin with number 79 at Equinor CTF 2024.</h3>
 
 <div style="display: flex; justify-content: center; gap: 1px; flex-wrap: wrap;">
-  <img src="coin0.png" alt="coin0" style="width: 350px; height: 350px; object-fit: cover;" />
-  <img src="coin1.png" alt="coin1" style="width: 350px; height: 350px; object-fit: cover;" />
+  <img src="coin0.png" alt="coin0" style="width: 325px; height: 325px; object-fit: cover;" />
+  <img src="coin1.png" alt="coin1" style="width: 325px; height: 325px; object-fit: cover;" />
 </div>
 
 
