@@ -23,8 +23,11 @@
   </div>
 </div>
 
-# Achievements
-###  I captured a unique CTF Coin with number 79 at Equinor CTF 2024.
-![coin0](coin0.png)
-![coin1](coin1.png)
+<h1 style="text-align: center;">Achievements</h1>
+<h3 style="text-align: center;">I captured a unique CTF Coin with number 79 at Equinor CTF 2024.</h3>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="coin0.png" alt="coin0" style="width: 200px; height: 200px; object-fit: cover;" />
+  <img src="coin1.png" alt="coin1" style="width: 200px; height: 200px; object-fit: cover;" />
+</div>
 
