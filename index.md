@@ -28,6 +28,6 @@ layout: default
   </div>
 </div>
 
-### New writeups
-
-- **[DawgCTF 2025 - GEOSINT Challenges](/DawgCTF-2025/)** *(04.2025)*
+# About
+I'm a student at the Silesian University of Technology. 
+I'm interested in topics related to web application security, cryptography, and OSINT.
