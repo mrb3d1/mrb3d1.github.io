@@ -16,6 +16,6 @@ layout: default
 </div>
 
 <h1>About</h1>
-<img src="profile.jpg" alt="Profile photo" style="width: 325px; height: 325px; object-fit: cover; border-radius: 50%; margin: 1rem 0;" />
+<img src="/assets/profile.jpg" alt="Profile photo" style="width: 325px; height: 325px; object-fit: cover; border-radius: 50%; margin: 1rem 0;" />
 <p>I am a student at the Silesian University of Technology.</p>  
 <p>I am interested in web application security, cryptography, and OSINT.</p>
