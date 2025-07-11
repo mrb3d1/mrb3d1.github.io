@@ -24,8 +24,19 @@
 }
 
 body {
+  background-color: #222;
+  color: #eee;
   font-size: clamp(1rem, 2vw, 1.4rem);
   line-height: 1.6;
   padding: 1rem;
   margin: 0;
 }
+
+a {
+  color: #66ccff;
+}
+
+a:hover {
+  color: #99ddff;
+}
+
