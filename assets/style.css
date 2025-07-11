@@ -12,11 +12,13 @@ a {
   color: #a889ff;
   text-decoration: none;
   font-weight: bold;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 a:hover {
   text-decoration: underline;
   color: #d0bfff;
+  text-shadow: 0 0 5px #d0bfff;
 }
 
 .nav-menu {
@@ -24,17 +26,23 @@ a:hover {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
-  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  gap: 20px;
+  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
   margin-bottom: 30px;
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
 
 .nav-menu a {
-  padding: 0 10px;
+  padding: 0.5rem 1rem;
+  color: #eee;
 }
 
 .nav-menu .separator {
-  color: #888;
+  color: #555;
   font-weight: normal;
   user-select: none;
+  font-size: 1.4rem;
 }
