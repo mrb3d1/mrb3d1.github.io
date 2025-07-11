@@ -15,6 +15,7 @@ layout: default
   <div class="nav-item"><a href="/achievements/">Achievements</a></div>
 </div>
 
-<h1 style="text-align: center;"> About </h1>
-<p style="text-align: center;">I'm a student at the Silesian University of Technology.</p>  
-<p style="text-align: center;">I'm interested in topics related to web application security, cryptography, and OSINT.</p>
+<h1>About</h1>
+<img src="profile.jpg" alt="Profile photo" style="width: 325px; height: 325px; object-fit: cover; border-radius: 50%; margin: 1rem 0;" />
+<p>I am a student at the Silesian University of Technology.</p>  
+<p>I am interested in web application security, cryptography, and OSINT.</p>
