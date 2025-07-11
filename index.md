@@ -1,3 +1,4 @@
+---
 title: "B3d1"
 layout: default
 ---
@@ -26,6 +27,7 @@ layout: default
     <a href="/achievements/" style="text-decoration: none; font-weight: bold;">Achievements</a>
   </div>
 </div>
+
 # About
 I'm a student at the Silesian University of Technology. 
 I'm interested in topics related to web application security, cryptography, and OSINT.
