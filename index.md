@@ -15,7 +15,6 @@ layout: default
   <div class="nav-item"><a href="/achievements/">Achievements</a></div>
 </div>
 
-# About
-
-I'm a student at the Silesian University of Technology.  
-I'm interested in topics related to web application security, cryptography, and OSINT.
+<h1 style="text-align: center;"> About </h1>
+<p style="text-align: center;">I'm a student at the Silesian University of Technology.</p>  
+<p style="text-align: center;">I'm interested in topics related to web application security, cryptography, and OSINT.</p>
