@@ -13,7 +13,7 @@
 <h1 style="text-align: center;">Informatics, full-time master degree studies 4 sem.</h1>
 <h2 style="text-align: center;">Summer semester 2024/2025</h2>
 
-<ul style="list-style: none; padding: 0;">
+<ul style="list-style: none; padding: 0; margin: 0;">
   <li style="text-align: center;"><a href="/studies/advanced-algorithms-and-data-structures/"><strong>Advanced Algorithms and Data Structures</strong></a></li>
   <li style="text-align: center;"><a href="/studies/advanced-programming-libraries/"><strong>Advanced Programming Libraries</strong></a></li>
   <li style="text-align: center;"><a href="/studies/applied-mathematics/"><strong>Applied Mathematics</strong></a></li>
