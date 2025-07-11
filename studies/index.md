@@ -25,12 +25,10 @@
 
 # Informatics, full-time master degree studies 4 sem.
 ## Summer semester 2024/2025
-| Subject |
-|--------|
-| [**Advanced Algorithms and Data Structures**](/studies/advanced-algorithms-and-data-structures/) |
-| [**Advanced Programming Libraries**](/studies/advanced-programming-libraries/) |
-| [**Applied Mathematics**](/studies/applied-mathematics/) |
-| [**Commercialization of Scientific Research**](/studies/commercialization-of-scientific-research/) |
-| [**Image Processing and Computer Graphics**](/studies/image-processing-and-computer-graphics/) |
-| [**Russian Language (A1)**](/studies/russian-language/) |
-| [**Statistics and Mass Service Theory**](/studies/statistics-and-mass-service-theory/) |
+[**Advanced Algorithms and Data Structures**](/studies/advanced-algorithms-and-data-structures/)  
+[**Advanced Programming Libraries**](/studies/advanced-programming-libraries/)  
+[**Applied Mathematics**](/studies/applied-mathematics/)  
+[**Commercialization of Scientific Research**](/studies/commercialization-of-scientific-research/)  
+[**Image Processing and Computer Graphics**](/studies/image-processing-and-computer-graphics/)  
+[**Russian Language (A1)**](/studies/russian-language/)  
+[**Statistics and Mass Service Theory**](/studies/statistics-and-mass-service-theory/)
