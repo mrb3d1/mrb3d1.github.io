@@ -1,3 +1,7 @@
+---
+title: B3d1
+layout: default
+---
 <link rel="stylesheet" href="/assets/style.css">
 
 <div class="nav-menu">
