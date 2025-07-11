@@ -10,12 +10,15 @@
   <div class="nav-item"><a href="/achievements/">Achievements</a></div>
 </div>
 
-# Informatics, full-time master degree studies 4 sem.
-## Summer semester 2024/2025
-[**Advanced Algorithms and Data Structures**](/studies/advanced-algorithms-and-data-structures/)  
-[**Advanced Programming Libraries**](/studies/advanced-programming-libraries/)  
-[**Applied Mathematics**](/studies/applied-mathematics/)  
-[**Commercialization of Scientific Research**](/studies/commercialization-of-scientific-research/)  
-[**Image Processing and Computer Graphics**](/studies/image-processing-and-computer-graphics/)  
-[**Russian Language (A1)**](/studies/russian-language/)  
-[**Statistics and Mass Service Theory**](/studies/statistics-and-mass-service-theory/)
+<h1 style="text-align: center;">Informatics, full-time master degree studies 4 sem.</h1>
+<h2 style="text-align: center;">Summer semester 2024/2025</h2>
+
+<ul style="list-style: none; padding: 0;">
+  <li style="text-align: center;"><a href="/studies/advanced-algorithms-and-data-structures/"><strong>Advanced Algorithms and Data Structures</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/advanced-programming-libraries/"><strong>Advanced Programming Libraries</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/applied-mathematics/"><strong>Applied Mathematics</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/commercialization-of-scientific-research/"><strong>Commercialization of Scientific Research</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/image-processing-and-computer-graphics/"><strong>Image Processing and Computer Graphics</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/russian-language/"><strong>Russian Language (A1)</strong></a></li>
+  <li style="text-align: center;"><a href="/studies/statistics-and-mass-service-theory/"><strong>Statistics and Mass Service Theory</strong></a></li>
+</ul>
