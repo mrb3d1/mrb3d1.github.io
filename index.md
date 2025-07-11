@@ -5,15 +5,15 @@ layout: default
 
 <link rel="stylesheet" href="/assets/style.css">
 
-<div class="nav-menu">
-  <div class="nav-item"><a href="/writeups/">Writeups</a></div>
-  <div class="separator"></div>
-  <div class="nav-item"><a href="/">About</a></div>
-  <div class="separator"></div>
-  <div class="nav-item"><a href="/studies/">Studies</a></div>
-  <div class="separator"></div>
-  <div class="nav-item"><a href="/achievements/">Achievements</a></div>
-</div>
+<nav class="nav-menu">
+  <a href="/writeups/">Writeups</a>
+  <span class="separator">|</span>
+  <a href="/">About</a>
+  <span class="separator">|</span>
+  <a href="/studies/">Studies</a>
+  <span class="separator">|</span>
+  <a href="/achievements/">Achievements</a>
+</nav>
 
 # About
 
