@@ -2,7 +2,7 @@ body {
   background-color: #222;
   color: #eee;
   font-family: system-ui, sans-serif;
-  font-size: clamp(1rem, 2vw, 1.3rem);
+  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
   line-height: 1.6;
   padding: 1.5rem;
   margin: 0;
