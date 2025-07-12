@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Achievements</h1>
-<h3 style="text-align: center;">I captured a unique CTF Coin with number 79 at Equinor CTF 2024.</h3>
+<h3 style="text-align: center;">I earned a unique CTF coin, numbered 79, at the Equinor CTF 2024 in recognition of my determination in completing one of the challenges. It was a truly remarkable and well-organized event.</h3>
 
 <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="coin0.png" alt="coin0" style="width: 325px; height: 325px; object-fit: cover; border-radius: 50%;" />
