@@ -7,9 +7,11 @@ body {
   padding: 2rem 1.5rem;
   margin: 0;
 }
-body > div {
-  max-width: 600px;
+
+main {
+  max-width: 850px;
   margin: 0 auto;
+  padding: 0 1rem;
 }
 
 img {
