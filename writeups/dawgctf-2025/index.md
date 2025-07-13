@@ -80,6 +80,6 @@ This [location](https://www.google.com/maps/@-65.1754999,-64.1357407,3a,75y,189.
 ![chall12](osint_chall12.png)
 
 I cropped a part of the photo showing a ticket office. I found an [article](https://www.anixter.com/content/dam/Suppliers/Peerless-AV/Washington%20Metropolitan%20Area%20Transit%20Authority_0.pdf) suggesting that the location is a station within [the Washington Metropolitan Area Transit Authority](https://www.google.com/maps/@38.8937802,-76.8682402,3a,60y,254.02h,92.94t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgICX5eCyHQ!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaxwY8mTpCSGqyGKvwU24uhsYYwUhkJy1N2fWcRJukDriQJSQDvBq2gEi_U3c2FM02J-VOI9dZu-TyH787MafMhhioAUHWFOEdvX60LjNDRfKMYjxPvE9jKbSSzKnRO0uc_itw%3Dw900-h600-k-no-pi-2.9362359762327372-ya118.00731356785954-ro0-fo100!7i12250!8i6125?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D) can be found.
-
+![chall12](chall12_0.png)
 ![chall12](chall12.png)
 
