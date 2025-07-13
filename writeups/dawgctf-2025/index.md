@@ -5,14 +5,14 @@ layout: default
 # DawgCTF 2025 - GEOSINT challenges
 ![Logo](cyberdawgs_shield.png)
 ### Table of contents:
-  [GEOSINT chall1](#geosint-chall1) 
-  [GEOSINT chall2](#geosint-chall2) 
-  [GEOSINT chall4](#geosint-chall4) 
-  [GEOSINT chall5](#geosint-chall5) 
-  [GEOSINT chall7](#geosint-chall7) 
-  [GEOSINT chall8](#geosint-chall8) 
-  [GEOSINT chall11](#geosint-chall11) 
-  [GEOSINT chall12](#geosint-chall12) 
+  [GEOSINT chall1](#geosint-chall1)  
+  [GEOSINT chall2](#geosint-chall2)  
+  [GEOSINT chall4](#geosint-chall4)  
+  [GEOSINT chall5](#geosint-chall5)  
+  [GEOSINT chall7](#geosint-chall7)  
+  [GEOSINT chall8](#geosint-chall8)  
+  [GEOSINT chall11](#geosint-chall11)   
+  [GEOSINT chall12](#geosint-chall12)  
 
 ![chall1](osint_chall1.png)
 
