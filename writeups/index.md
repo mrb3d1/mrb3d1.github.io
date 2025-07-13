@@ -15,3 +15,4 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Writeups</h1>
+<a href="/dawgctf-2025/">Dawgctf 2025</a>
