@@ -9,7 +9,7 @@ body {
 }
 
 main {
-  max-width: 1000px;
+  max-width: clamp(320px, 96%, 1100px);
   margin: 0 auto;
   padding: 0 1rem;
 }
