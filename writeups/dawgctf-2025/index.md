@@ -15,8 +15,6 @@ layout: default
 
 # DawgCTF 2025 - GEOSINT challenges
 
-![chall1](cyberdawgs_shield.png)
-
 # Table of contents:  
 [GEOSINT chall1](#geosint---chall1)  
 [GEOSINT chall2](#geosint---chall2)  
