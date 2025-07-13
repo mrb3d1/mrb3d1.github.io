@@ -1,6 +1,4 @@
 ---
-title: "DawgCTF 2025" 
-permalink: / 
 layout: default
 ---
 
