@@ -1,5 +1,5 @@
 ---
-title:"DawgCTF 2025"
+title: "DawgCTF 2025"
 layout: default
 ---
 <link rel="stylesheet" href="/assets/style.css">
