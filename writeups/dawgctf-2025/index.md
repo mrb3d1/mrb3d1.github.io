@@ -14,6 +14,7 @@ layout: default
 [GEOSINT chall11](#geosint---chall11)   
 [GEOSINT chall12](#geosint---chall12)  
 
+### GEOSINT - chall1
 ![chall1](osint_chall1.png)
 
 This is an easy challenge. The unique logo should catch attention, so the team name can be identified. So [Albertsons Stadium](https://www.google.com/maps/place/Albertsons+Stadium/@43.6026366,-116.1984099,17z/data=!3m1!4b1!4m6!3m5!1s0x8646819ce03a452f:0xaa2b000d8bf5c58d!8m2!3d43.6026327!4d-116.195835!16zL20vMDYydmdt?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D) is found. 
