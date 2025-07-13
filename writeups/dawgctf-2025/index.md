@@ -16,7 +16,7 @@ layout: default
 # DawgCTF 2025 - GEOSINT challenges
 
 <div style="width: 300px; height: 300px; overflow: hidden; border-radius: 16px; margin: 2rem auto; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
-  <img src="logo.png" alt="logo" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="cyberdawgs_shield.png" alt="logo" style="width: 100%; height: 100%; object-fit: cover;" />
 </div>
 
 # Table of contents:  
