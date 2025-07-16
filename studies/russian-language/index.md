@@ -15,3 +15,5 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Russian language (A1)</h1>
+
+### University lecturer: Aleksandra Fedoryszyn
