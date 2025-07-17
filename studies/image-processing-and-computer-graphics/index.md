@@ -15,3 +15,5 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Image processing and computer graphics</h1>
+
+University lecturers: Paweł Kozyra, Sebastian Pabiasz
