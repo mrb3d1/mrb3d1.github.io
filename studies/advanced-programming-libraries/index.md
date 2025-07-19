@@ -15,3 +15,5 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Advanced programming libraries</h1>
+
+University lecturer: Marcin Lawnik
