@@ -15,3 +15,5 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Commercialization of scientific research</h1>
+
+University lecturer: Arkadiusz Szmal
