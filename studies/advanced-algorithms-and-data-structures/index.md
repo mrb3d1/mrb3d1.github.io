@@ -15,3 +15,5 @@ layout: default
 </div>
 
 <h1 style="text-align: center;">Advanced Algorithms and Data Structures</h1>
+
+### University lecturers: Michał Wieczorek, Marcin Woźniak
