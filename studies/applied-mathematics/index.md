@@ -16,4 +16,4 @@ layout: default
 
 <h1 style="text-align: center;"> Applied Mathematics</h1>
 
-### University lecturer: Edyta Hetmaniok
+University lecturer: Edyta Hetmaniok
