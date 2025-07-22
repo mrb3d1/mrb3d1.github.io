@@ -17,7 +17,7 @@ layout: default
 <h1 style="text-align: center;">Statistics and mass service theory</h1>
 
 
-### University lecturers: Wojciech Kempa, Martyna Kobielnik
+University lecturers: Wojciech Kempa, Martyna Kobielnik
 
 ### Description:
 Construction of a statistical test. Power of the test. Selected parametric and nonparametric statistical tests. Multiple regression model. Fitting the model to empirical data. Stepwise and ridge regression. Queueing models. Kendall's classification. Key stochastic characteristics of queueing models. Little’s formulas. PASTA property. M/M/1 queueing model with unlimited and limited buffer capacity. Multichannel M/M/c service model. Priority service. M/G/1 queueing model. Pollaczek–Khinchine formulas. Queueing models with limited access to the service station. Service station warm-up period. Threshold discipline. "Insensitive" queueing models.  
